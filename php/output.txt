@@ -1,0 +1,4 @@
+preview_path: C:/IMG_00000001.jpg
+preview_file exists: true
+Широта 7.62
+Долгота 5.45

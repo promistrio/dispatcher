@@ -1,0 +1,13 @@
+
+#vehicle_id:hover {
+    cursor:pointer;
+}
+#vehicle_id {
+    color: blue;
+    text-decoration: underline
+}
+
+.ti-download {
+    cursor:pointer;
+    color : red;
+}
